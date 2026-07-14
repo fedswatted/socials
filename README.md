@@ -4,7 +4,7 @@
 [![English](https://img.shields.io/badge/Language-English-012169?logoColor=white)](https://en.wikipedia.org/wiki/English_language)
 [![German](https://img.shields.io/badge/Language-Deutsch-000000?logoColor=white)](https://de.wikipedia.org/wiki/Deutsche_Sprache)
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/DEININVITE)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](its @comswatted)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/fedswatted)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/aledgerwallet)
 [![Medal](https://img.shields.io/badge/Medal-1A1A1A?logo=medal&logoColor=white)](https://medal.tv/users/fedswatted)

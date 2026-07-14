@@ -1,6 +1,8 @@
 # fedswatted
 
-🇳🇱 Netherlands • 🇬🇧 English • 🇩🇪 DGerman
+[![Netherlands](https://img.shields.io/badge/Country-Netherlands-AE1C28?logoColor=white&labelColor=21468B)](https://en.wikipedia.org/wiki/Netherlands)
+[![English](https://img.shields.io/badge/Language-English-012169?logoColor=white)](https://en.wikipedia.org/wiki/English_language)
+[![German](https://img.shields.io/badge/Language-Deutsch-000000?logoColor=white)](https://de.wikipedia.org/wiki/Deutsche_Sprache)
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/DEININVITE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/fedswatted)

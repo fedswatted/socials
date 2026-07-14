@@ -1,34 +1,13 @@
 # fedswatted
 
-- **Country:** 🇳🇱 Netherlands
-- **Languages:** 🇬🇧 English, 🇩🇪 Deutsch
+🇳🇱 Netherlands • 🇬🇧 English • 🇩🇪 DGerman
 
-<p align="left">
-  <a href="@wc64">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" alt="Discord"/>
-  </a>
-  <a href="https://github.com/fedswatted">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="32" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/aledgerwallet">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram"/>
-  </a>
-  <a href="https://medal.tv/users/fedswatted">
-    <img src="https://cdn.simpleicons.org/medal/ffffff" width="32" alt="Medal"/>
-  </a>
-  <a href="https://soundcloud.com/fedswatted">
-    <img src="https://cdn.simpleicons.org/soundcloud/FF5500" width="32" alt="SoundCloud"/>
-  </a>
-  <a href="https://t.me/fedswatted">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" alt="Telegram"/>
-  </a>
-  <a href="https://tiktok.com/@aledgerwallet">
-    <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="32" alt="TikTok"/>
-  </a>
-  <a href="https://x.com/fedswatted">
-    <img src="https://cdn.simpleicons.org/x/ffffff" width="32" alt="X"/>
-  </a>
-  <a href="https://youtube.com/@fedswatted">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="32" alt="YouTube"/>
-  </a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/DEININVITE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/fedswatted)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/aledgerwallet)
+[![Medal](https://img.shields.io/badge/Medal-1A1A1A?logo=medal&logoColor=white)](https://medal.tv/users/fedswatted)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/fedswatted)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/fedswatted)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@aledgerwallet)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/fedswatted)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@fedswatted)
